@@ -1,2 +1,11 @@
 # Data-Science-Cousera-Files-IBM
-Course 4: Python for Data Science and AI Course 5: Databases and SQL for Data Science Course 6: Data Analysis with Python Course 7: Data Visualization with Python Course 8: Machine Learning with Python
+
+Notebooks from the IBM Data Science Specialisation from Cousera
+
+Course 1: Python for Data Science and AI 
+Course 2: Databases and SQL for Data Science 
+Course 3: Data Analysis with Python 
+Course 4: Data Visualization with Python 
+Course 5: Machine Learning with Python
+
+link to Course: https://www.coursera.org/professional-certificates/ibm-data-science
